@@ -4,15 +4,11 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* HEADINGS */
 .header--main {
     color: white;
     font-size: 50px;
     font-weight: normal;
-}
-
-.link--cta {
-    font-size: 16px;
-    color: aquamarine;
 }
 
 .header--sub {
@@ -26,3 +22,11 @@ body {
     color: grey;
     
 }
+
+/* Links styling */
+
+.link--cta {
+    font-size: 16px;
+    color: aquamarine;
+}
+
